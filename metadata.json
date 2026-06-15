@@ -1,0 +1,8 @@
+{
+  "name": "Lumora Web Studio",
+  "description": "Bespoke digital design & development portfolio for Lumora Web Studio, centered on clean layouts, classic typography, and premium human-crafted interfaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
